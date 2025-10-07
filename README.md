@@ -26,5 +26,5 @@ This project demonstrates how to:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-headline-preprocessing.git
+   git clone https://github.com/Yasamin-Alemzadeh/text-headline-preprocessing.git
    cd text-headline-preprocessing
